@@ -1,0 +1,36 @@
+2018-04-10 15:44:36 [ main ] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3f2a3a5: startup date [Tue Apr 10 15:44:36 CST 2018]; root of context hierarchy
+2018-04-10 15:44:36 [ main ] Loading XML bean definitions from class path resource [beans.xml]
+2018-04-10 15:44:38 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-10 15:44:39 [ MLog-Init-Reporter ] MLog clients using slf4j logging.
+2018-04-10 15:44:39 [ main ] Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2018-04-10 15:44:40 [ main ] {dataSource-1} inited
+2018-04-10 15:47:15 [ main ] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3f2a3a5: startup date [Tue Apr 10 15:47:15 CST 2018]; root of context hierarchy
+2018-04-10 15:47:15 [ main ] Loading XML bean definitions from class path resource [beans.xml]
+2018-04-10 15:47:16 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-10 15:47:17 [ MLog-Init-Reporter ] MLog clients using slf4j logging.
+2018-04-10 15:47:17 [ main ] Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2018-04-10 15:47:19 [ main ] {dataSource-1} inited
+2018-04-10 15:49:13 [ main ] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3f2a3a5: startup date [Tue Apr 10 15:49:13 CST 2018]; root of context hierarchy
+2018-04-10 15:49:14 [ main ] Loading XML bean definitions from class path resource [beans.xml]
+2018-04-10 15:49:14 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-10 15:49:15 [ MLog-Init-Reporter ] MLog clients using slf4j logging.
+2018-04-10 15:49:16 [ main ] Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2018-04-10 15:49:17 [ main ] {dataSource-1} inited
+2018-04-10 15:54:01 [ main ] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3f2a3a5: startup date [Tue Apr 10 15:54:01 CST 2018]; root of context hierarchy
+2018-04-10 15:54:01 [ main ] Loading XML bean definitions from class path resource [beans.xml]
+2018-04-10 15:54:02 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-10 15:54:03 [ MLog-Init-Reporter ] MLog clients using slf4j logging.
+2018-04-10 15:54:03 [ main ] Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2018-04-10 15:54:04 [ main ] {dataSource-1} inited
+2018-04-10 15:55:04 [ main ] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2357d90a: startup date [Tue Apr 10 15:55:04 CST 2018]; root of context hierarchy
+2018-04-10 15:55:05 [ main ] Loading XML bean definitions from class path resource [beans.xml]
+2018-04-10 15:55:05 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-10 15:55:06 [ MLog-Init-Reporter ] MLog clients using slf4j logging.
+2018-04-10 15:55:06 [ main ] Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2018-04-10 15:55:30 [ main ] {dataSource-1} inited
+2018-04-10 15:57:34 [ main ] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3f2a3a5: startup date [Tue Apr 10 15:57:34 CST 2018]; root of context hierarchy
+2018-04-10 15:57:34 [ main ] Loading XML bean definitions from class path resource [beans.xml]
+2018-04-10 15:57:35 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-10 15:57:36 [ MLog-Init-Reporter ] MLog clients using slf4j logging.
+2018-04-10 15:57:36 [ main ] Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2018-04-10 15:57:37 [ main ] {dataSource-1} inited

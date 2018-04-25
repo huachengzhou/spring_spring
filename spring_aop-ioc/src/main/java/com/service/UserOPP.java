@@ -1,0 +1,36 @@
+package com.service;
+
+import com.common.help.Zhou_StdRandom;
+import com.common.help.Zhou_String;
+import com.common.help.Zhou_Word;
+import org.springframework.stereotype.Component;
+import zch.pojo.User;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.UUID;
+
+@Component(value = "useropp")
+public class UserOPP {
+
+    public void eachUser(){
+        int num = Zhou_StdRandom.uniform(12,20);
+        List<User> users = new ArrayList<>();
+        User user = null;
+        for (int i = 0; i < num; i++) {
+            user = new User();
+            user.setUid(UUID.randomUUID().toString());
+            user.setUsername(Zhou_Word.getEnglishName());
+            user.setName(Zhou_Word.getChineseName());
+            user.setPassword(Zhou_String.toOther(5));
+            users.add(user);
+        }
+        users.forEach(user1 -> {
+            System.out.println(""+user1);
+        });
+    }
+
+    public void isFFF(String var){
+        System.out.println("var:"+var);
+    }
+}

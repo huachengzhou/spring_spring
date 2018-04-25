@@ -1,0 +1,2 @@
+2018-04-06 23:57:43 [ main ] slow sql 52884 millis. insert into `spring-mvc-user`(id,birthday,name,username,password,address,account,`group`,sex,jurisdiction,permission,role,age) values((select UUID()),(select NOW()),?,?,?,?,?,?,?,?,?,?,?)["华自","Toby","900433","china","86302","中石油","woman","都督","user:remove","学生",74]
+  
