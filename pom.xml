@@ -12,6 +12,7 @@
         <module>spring_mvc</module>
         <module>spring_aop-ioc</module>
         <module>spring_pojo</module>
+        <module>prototype</module>
     </modules>
 
     <name>spring_spring</name>
